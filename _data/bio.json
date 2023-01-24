@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
-      { "network": "linkedin", "username": "vantajc", "url": "http://linkedin.com/in/vantajc" },
+      { "network": "linkedin", "username": "vantajc", "url": "https://www.linkedin.com/in/joel-vanta-135373a8/" },
       { "network": "twitter", "username": "vantajc", "url": "http://twitter.com/vantajc" },
       { "network": "instagram", "username": "vantajc", "url": "http://instagram.com/vantajc" }
     ]
