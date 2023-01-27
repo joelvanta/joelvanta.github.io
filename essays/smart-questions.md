@@ -24,6 +24,10 @@ As a software engineer or a student in computer science, in order for us to ask 
 
 An example of a not smart way of asking question has a header “Calendar React JS.” The post contains words that “I have a homework,” which seems that the person who asked did not do research or have not started doing the task. When you further read the post, there is not enough information given. It states that they need to make a calendar component on React and has to show days like in Windows that starts from Sunday and ends with Saturday. An obvious incomplete code was given which clearly shows that the person asking the question did not make any progress in doing the task given to them. There was a person who asks for clarification regarding the question. Another answered the question with a sample code for reference. 
 
+## CONCLUSION
+
+In conclusion, when asking a question,  you should bear in mind the proper way on how to ask and present it to people whether written or oral. The way you present the question would be the same on how you would get an answer. A clear, concise question will get an answer that is full of quality. An incomplete and vague question might sometimes be ignored or get a misleading answer.
+
 Here is a link to [Smart question example](https://stackoverflow.com/questions/75254477/how-to-determine-whether-the-other-then-methods-can-be-omitted).
 
 Here is a link to [Not a smart question example](https://stackoverflow.com/questions/75254473/calendar-react-js).
