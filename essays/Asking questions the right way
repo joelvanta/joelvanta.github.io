@@ -1,18 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "My Javascript experience"
+title: "Asking questions the right way"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-18
+date: 2023-01-26
 published: true
 labels:
   - Technical Essay
+  - Computer Science
 ---
 
-I am new to Javascript. I have prior knowledge regarding programming languages such as Java and C. Since this is my first time using this, I find it hard and challenging. When I compare it to Java, I find it easier to do as it is very similar in terms of codes and syntax used. Since we are using fiddle to do our codes instead of Eclipse, I find it more comfortable to do. 
+Human beings are born with the capability to communicate with each other whether in words or actions, written or spoken. Our brain is so complex that we tend to become curious as to what is happening around us, so we ask different types of questions as we mature. We ask questions for us to gain sufficient information regarding something that we do not know and to enhance our knowledge about something. 
 
-I learned so many things about doing Javascript and ES6. The freeCodeCamp was extremely helpful for me to understand how Javascript and ES6 works. It was lengthy and time consuming, but it was worth it. Having hands-on experience and practical exercises made it more enjoyable learning experience.
+As a being that is full of questions, I can say that it is not bad to ask questions. It will not make someone look stupid or dumb only if they ask question the proper way. There is a difference between asking a question the smart way or the other way around which will might sound foolish to other people. 
 
-Although I am not yet fully exposed to Javascript and software engineering, just the way how I learned and understood it, I can definitely agree that it is a good programming language from a software engineering perspective as it is being used mostly by the industry so learning it as early as now is an advantage.
+As a software engineer or a student in computer science, in order for us to ask a smart question, you should have already exhausted all your effort in finding an answer to your question. It means that you have searched it using a book, your peers, or a search engine for a possible answer. Furthermore, you have started making a draft or in terms of coding, you have already started doing codes and encountered problems that needs further assistance. An example of a smart question that I found in Stack Overflow has a header “How to determine whether the other than() methods can be omitted?.” It clearly states the problem that the person has encountered. When you read the entire post, the codes are explicitly posted and instructions were given. The person asking the question stated their results and asks for further assistance. Since the question was clear enough, it received a logical answer.
 
-Athletic software engineering in my opinion will make us more productive and a fast problem solver in the field. I find the practice WOD very useful although it is very challenging and requires a lot of effort and knowledge about the topic. The style of learning in this class is very efficient and effective as it reduces the teaching time and maximizing the learning of each student. I can view the modules in my convenient time and can review them as many times that I want compared to having a lecture day. The meeting time can be used for problem solving, asking clarification and practical application regarding the topic. I find it enjoyable as I learn new things in class. This style of learning will surely work for me.
+An example of a not smart way of asking question has a header “Calendar React JS.” The post contains word that “I have a homework,” which seems that the person who asked did not do research or have not started doing the task. When you further read the post, there is not enough information given. It states that they need to make a calendar component on React and has to show days like in Windows that starts from Sunday and ends with Saturday. An obvious incomplete code was given which clearly shows that the person asking the question did not make any progress in doing the task given to them. There was a person who asks for clarification regarding the question. Another answered the question with a sample code for reference. 
