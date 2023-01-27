@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Asking questons the right way"
+title: "Asking questions the right way"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
