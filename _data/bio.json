@@ -41,6 +41,12 @@
       "endDate": "Present",
       "courses": [Software engineering, Discrete mathematics, Algorithms
       ]
+      "institution": "University of Santo Tomas, Manila, Philippines",
+      "area": "Biology (Spring, 2006)",
+      "studyType": "B.S.",
+      "startDate": "2002-06-01",
+      "endDate": "2006-03-25",
+      "courses": [Genetics, Biochemistry, General Biology, Ecology]
     }
   ],
   "work": [
