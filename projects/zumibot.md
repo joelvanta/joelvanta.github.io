@@ -13,15 +13,11 @@ labels:
 summary: "A miniature robotic car for DiscoverAI program Fall 2022"
 ---
 
-<img class="ui left medium float image" width="250" src="..img/vacay/zumi2.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+During the Fall 2022 semester, I joined the DiscoverAI program in the University of Hawaii of Manoa. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
+Here is an example code to used to operate the Zumi bot:
 
 ```cpp
 zumi.mpu.calibrate_MPU() // calibrates the zumi's position
