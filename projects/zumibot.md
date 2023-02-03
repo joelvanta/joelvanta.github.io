@@ -13,6 +13,10 @@ labels:
 summary: "A miniature robotic car for DiscoverAI program Fall 2022"
 ---
 
+<div class="text-center p-4">
+  <img width="200px" src="../img/vacay/zumi2.png" class="img-thumbnail" >
+</div>
+
 
 During the Fall 2022 semester, I joined the DiscoverAI program in the University of Hawaii of Manoa. We had online synchronous meetings every Friday. The topics that were discussed dealt with Artificial Intelligence, Machine Learning, and coding using Python. We were assigned groups and tasked to come up with a final project related to AI.
 
