@@ -10,10 +10,10 @@ labels:
   - Machine Learning
   - Artificial Intelligence
   
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A miniature robotic car for DiscoverAI program Fall 2022"
 ---
 
-<img class="ui left medium float image" width="250"src="..img/vacay/Screenshot 2023-02-02 at 7.00.16 PM.png">
+<img class="ui left medium float image" width="250" src="..img/vacay/zumi2.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
