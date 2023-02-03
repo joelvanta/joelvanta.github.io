@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/cotton/Prom.png
+title: "Prom Night"
+date: 2015
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Prom
+  - Masquerade
+summary: "Promenade night in Ganado High School, Arizona"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
