@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/vacay/Screenshot 2023-02-02 at 7.00.16 PM.png
-title: "Vacay"
-date: 2015
+title: "Zumibot"
+date: 2022
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Python
+  - Machine Learning
+  - Artificial Intelligence
+  
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
