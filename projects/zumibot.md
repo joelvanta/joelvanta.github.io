@@ -40,4 +40,4 @@ camera.start_camera() // starts zumi camera
 
 Overall, the project was successful. There are some minor improvements that should be done such as proper object recognition since it needs a lot of pictures to store in its memory to identify a certain object as well as the color.
 
-Source: <a href="https://github.com/theVacay/vacay](https://www.robolink.com/products/zumi">Information about Zumi</a>
+Source: <a href="https://www.robolink.com/products/zumi">Information about Zumi</a>
