@@ -11,10 +11,11 @@ labels:
   - IntelliJ
 ---
 
-<div class="text-center p-4">
 <img width="500px" class="float-end pe-4" src="../img/igniting/eslint1.png">
+
+
 <img width="500px" class="float-end pe-4" src="../img/igniting/eslint2.png">
-</div>
+
 
 
 
