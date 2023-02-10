@@ -15,6 +15,8 @@ labels:
 <img width="500px" class="float-end pe-4" src="../img/igniting/eslint1.png">
 <img width="500px" class="float-end pe-4" src="../img/igniting/eslint2.png">
 </div>
+
+
   
 People say that we learn through our mistakes. There are no perfect things in this world, however, we can improve and make our lives better in the future. We will not know our mistake unless someone or something tells us where we went wrong. It is for us to accept or acknowledge our mistake. 
 
