@@ -12,8 +12,8 @@ labels:
   - Technical Essay
 ---
 
-<img src="..img/foodland original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= 1000px>
-<img src="..img/foodland your choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= 1000px>
+<img src="https://github.com/joelvanta/joelvanta.github.io/blob/965b427b5f00818cc0d6d8555f842b88c74e2292/essays/foodland%20original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
+<img src="..img/foodland your choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
 
 
 
