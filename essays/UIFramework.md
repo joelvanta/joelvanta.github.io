@@ -12,28 +12,14 @@ labels:
   - Technical Essay
 ---
 
-<img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
+<img src="img/cotton/foodland-original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
 <br>
-<img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-your-choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
+<img src="img/cotton/foodland-your-choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
 
 
 
-Human beings are born with the capability to communicate with each other whether in words or actions, written or spoken. Our brain is so complex that we tend to become curious as to what is happening around us, so we ask different types of questions as we mature. We ask questions for us to gain sufficient information regarding something that we do not know and to enhance our knowledge about something. 
+Learning a new programming language is difficult and complicated. You need to dedicate time and effort to learn. There is a saying that practice makes perfect. This was the same feeling that I experience regarding UI Frameworks. After a few weeks of learning this new framework, I get very frustrated. There are a lot of information to learn about this topic. I feel overwhelmed that sometimes I forget and get confused. 
 
-As a being that is full of questions, I can say that it is not bad to ask questions. It will not make someone look stupid or dumb only if they ask question the proper way. There is a difference between asking a question the smart way or the other way around which will might sound foolish to other people. 
+One of our tasks in class is to choose a website that we want to copy and use Bootstrap 5. I get to make a copy of Foodland website. Although it looks simple, I had a hard time to recreate the website. However, I was able to do the task and was able to recreate the website. We had different tasks to recreate different websites during the practice WOD (Workout of the Day) and the actual WOD. I feel very upset and frustrated that even though I have the resources on how to do the tasks, I was not able to finish them on time. I will not lose hope with what happened, in fact, it will make me more engage with this topic. I know that I will use this in the future especially if I will be working in a company.
 
-## SMART WAY TO ASK A QUESTION
-
-As a software engineer or a student in computer science, in order for us to ask a smart question, you should have already exhausted all your effort in finding an answer to your question. It means that you have searched it using a book, your peers, or a search engine for a possible answer. Furthermore, you have started making a draft or in terms of coding, you have already started doing codes and encountered problems that needs further assistance. An example of a smart question that I found in Stack Overflow has a header “How to determine whether the other than() methods can be omitted?.” It clearly states the problem that the person has encountered. When you read the entire post, the codes are explicitly posted and instructions were given. The person asking the question stated their results and asks for further assistance. Since the question was clear enough, it received a logical answer.
-
-## NOT A SMART WAY TO ASK A QUESTION
-
-An example of a not smart way of asking question has a header “Calendar React JS.” The post contains words that “I have a homework,” which seems that the person who asked did not do research or have not started doing the task. When you further read the post, there is not enough information given. It states that they need to make a calendar component on React and has to show days like in Windows that starts from Sunday and ends with Saturday. An obvious incomplete code was given which clearly shows that the person asking the question did not make any progress in doing the task given to them. There was a person who asks for clarification regarding the question. Another answered the question with a sample code for reference. 
-
-## CONCLUSION
-
-In conclusion, when asking a question,  you should bear in mind the proper way on how to ask and present it to people whether written or oral. The way you present the question would be the same on how you would get an answer. A clear, concise question will get an answer that is full of quality. An incomplete and vague question might sometimes be ignored or get a misleading answer.
-
-Here is a link to [Smart question example](https://stackoverflow.com/questions/75254477/how-to-determine-whether-the-other-then-methods-can-be-omitted).
-
-Here is a link to [Not a smart question example](https://stackoverflow.com/questions/75254473/calendar-react-js).
+In conclusion, I can say that every hardwork will pay off in the future. Learning UI Frameworks is complicated, however, through practice I can definitely apply it especially when I graduate. 
