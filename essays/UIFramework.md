@@ -17,7 +17,8 @@ labels:
 <br>
 <a><img src="/img/foodland your choice.png" alt="Foodlandcopy" width="1000" height="750">Recreated Website</a>
 
-
+<br>
+<br>
 
 Learning a new programming language is difficult and complicated. You need to dedicate time and effort to learn. There is a saying that practice makes perfect. This was the same feeling that I experience regarding UI Frameworks. After a few weeks of learning this new framework, I get very frustrated. There are a lot of information to learn about this topic. I feel overwhelmed that sometimes I forget and get confused. 
 
