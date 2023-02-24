@@ -13,6 +13,7 @@ labels:
 ---
 
 <img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
+<br>
 <img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-your-choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
 
 
