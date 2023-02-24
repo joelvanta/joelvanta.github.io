@@ -12,8 +12,8 @@ labels:
   - Technical Essay
 ---
 
-<img src="[..img/cotton/foodland-original.png](https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-original.png)" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
-<img src="[..img/cotton/foodland-your-choice.png](https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-your-choice.png)" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
+<img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-original.png" class="rounded mx-auto d-block" alt=“foodlandorig” width= "1000px">
+<img src="https://github.com/joelvanta/joelvanta.github.io/blob/7b04a0e270fd468c38f612563fd50ec2603e5ae3/img/cotton/foodland-your-choice.png" class="rounded mx-auto d-block" alt=“foodlandmychoice” width= "1000px">
 
 
 
