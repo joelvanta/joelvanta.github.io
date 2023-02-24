@@ -12,9 +12,9 @@ labels:
   - Technical Essay
 ---
 
-<img width="500px" class="float-end pe-4" src="..img/foodland original.png">
+<img width="1500px" class="float-end pe-4" src="..img/foodland original.png">
 
-<img width="500px" class="float-end pe-4" src="..mg/foodland your choice.png">
+<img width="1500px" class="float-end pe-4" src="..img/foodland your choice.png">
 
 
 
