@@ -11,14 +11,11 @@ labels:
   - UI Frameworks
   - Technical Essay
 ---
-Original Website:
 
-<img src="/img/foodland original.png" alt="Foodlandorig" width="500" height="300">
+<a><img src="/img/foodland original.png" alt="Foodlandorig" width="1000" height="750">Original Website</a>
+
 <br>
-
-Recreated Website:
-
-<img src="/img/foodland your choice.png" alt="Foodlandcopy" width="500" height="300">
+<a><img src="/img/foodland your choice.png" alt="Foodlandcopy" width="1000" height="750">Recreated Website</a>
 
 
 
