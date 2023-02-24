@@ -12,7 +12,7 @@ labels:
   - Technical Essay
 ---
 
-<img width="500px" class="float-end pe-4" href="[..img/foodland original.png](https://github.com/joelvanta/joelvanta.github.io/blob/965b427b5f00818cc0d6d8555f842b88c74e2292/essays/foodland%20original.png)">
+<img width="500px" class="float-end pe-4" src="[..img/foodland original.png](https://github.com/joelvanta/joelvanta.github.io/blob/965b427b5f00818cc0d6d8555f842b88c74e2292/essays/foodland%20original.png)">
 
 <img width="500px" class="float-end pe-4" src="..img/foodland your choice.png">
 
