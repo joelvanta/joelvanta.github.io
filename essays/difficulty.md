@@ -4,7 +4,7 @@ type: essay
 title: "My Javascript experience"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
-published: true
+published: false
 labels:
   - Technical Essay
 ---
