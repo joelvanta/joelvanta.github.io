@@ -11,7 +11,7 @@ labels:
   - StackOverflow
   - Technical Essay
 ---
-<img src="https://i0.wp.com/www.aliem.com/wp-content/uploads/2010/08/Questioning3d.jpg?ssl=1" alt=“question” width="1000" height="500">
+<img src="https://i0.wp.com/www.aliem.com/wp-content/uploads/2010/08/Questioning3d.jpg?ssl=1" alt=“question”>
 <br>
 
 <br>
