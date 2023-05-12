@@ -8,6 +8,13 @@ published: true
 labels:
   - Technical Essay
 ---
+
+<img src="https://4.bp.blogspot.com/-s2EhTt57oeU/XHtQtO1QNLI/AAAAAAAANW8/KYkPQEZUyocSpA2RzqCcVt31imXPi63RACLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg" alt=“JavaScript” width="1000" height="500">
+<br>
+
+<br>
+<br>
+
 ## Introduction
 I am new to Javascript. I have prior knowledge regarding programming languages such as Java and C. Since this is my first time using this, I find it hard and challenging. When I compare it to Java, I find it easier to do as it is very similar in terms of codes and syntax used. Since we are using fiddle to do our codes instead of Eclipse, I find it more comfortable to do. 
 
