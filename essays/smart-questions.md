@@ -4,14 +4,14 @@ type: essay
 title: "Asking questions the right way"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
-published: false
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
   - Technical Essay
 ---
-<img src="https://en.hdyo.org/assets/ask-question-2-fb180173e13f21ad6ae73ba29b08cd02.jpg" alt=“question” width="1000" height="500">
+<img src="https://en.hdyo.org/assets/ask-question-2-fb180173e13f21ad6ae73ba29b08cd02.jpg" alt=“question”>
 <br>
 
 <br>
