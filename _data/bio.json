@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "Java", "Javascript", "Python", "Meteor", "MongoDB"]
     },
     {
       "name": "Toolsets/OS",
@@ -67,7 +67,7 @@
       "position": "High School Science Teacher",
       "website": "http://www.ganado.k12.az.us",
       "startDate": "2013-09-01",
-      "endDate": "2013-05-22",
+      "endDate": "2016-05-22",
       "summary": "A passionate and dedicated educator",
       "highlights": [
         "Educate the young people in the fascinating field of chemistry",
