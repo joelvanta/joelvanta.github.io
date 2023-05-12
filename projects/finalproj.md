@@ -14,7 +14,7 @@ summary: "A group web development project for Software Engineering class"
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/projprofile.png">
+  <img width="1000px" src="../img/projprofile.png">
 </div>
 
 ## Introduction
