@@ -11,7 +11,11 @@ labels:
   - StackOverflow
   - Technical Essay
 ---
+<img src="https://i0.wp.com/www.aliem.com/wp-content/uploads/2010/08/Questioning3d.jpg?ssl=1" alt=“question” width="1000" height="500">
+<br>
 
+<br>
+<br>
 Human beings are born with the capability to communicate with each other whether in words or actions, written or spoken. Our brain is so complex that we tend to become curious as to what is happening around us, so we ask different types of questions as we mature. We ask questions for us to gain sufficient information regarding something that we do not know and to enhance our knowledge about something. 
 
 As a being that is full of questions, I can say that it is not bad to ask questions. It will not make someone look stupid or dumb only if they ask question the proper way. There is a difference between asking a question the smart way or the other way around which will might sound foolish to other people. 
