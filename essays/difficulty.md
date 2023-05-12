@@ -9,7 +9,7 @@ labels:
   - Technical Essay
 ---
 
-<img src="https://miro.medium.com/v2/resize:fit:2000/1*BPSx-c--z6r7tY29L19ukQ.png" alt=“JavaScript1”>
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*BPSx-c--z6r7tY29L19ukQ.png" alt=“JavaScript”>
 <br>
 
 <br>
