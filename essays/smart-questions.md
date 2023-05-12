@@ -11,7 +11,7 @@ labels:
   - StackOverflow
   - Technical Essay
 ---
-<img src="https://en.hdyo.org/assets/ask-question-2-fb180173e13f21ad6ae73ba29b08cd02.jpg" alt=“question”>
+<img src="https://ww2.kqed.org/app/uploads/sites/23/2012/10/134031979.jpg" alt=“question” width="1000" height="500">
 <br>
 
 <br>
