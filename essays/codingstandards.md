@@ -31,7 +31,7 @@ In the field of software engineering, every programmer commit mistakes in coding
 After this first week of using ESLint with IntelliJ, I find that it is very helpful and useful for me in improving my code. It actually does improve my learning towards Javascript. As a beginner to this language, it was both painful and useful for me.  It was painful to see so many errors in the code although there are statements why there was an error in order for me to fix it, so it become useful as well. 
 
 ## Generalization
-In conclusion, ESLint is indeed very helpful and useful tool for every software engineer in order to improve their skills and technique in terms of coding standards. 
+In conclusion, everyone makes mistakes. We make mistakes in order for us to improve our wrong doings as nobody is perfect in this world. ESLint is indeed very helpful and useful tool for every software engineer in order to improve their skills and technique in terms of coding standards. 
 
   
 
