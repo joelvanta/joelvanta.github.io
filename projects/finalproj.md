@@ -29,6 +29,6 @@ In this project, I was the one who made the repository, had the idea of the name
 
 Overall, I can say that our final project was successful. My classmates done their part in order to finish the project on time. I was also happy with the result and the grade I received.
 
-[Check out our site!] (https://manoatradeyourstuff.site)
+[Check out our site!](https://manoatradeyourstuff.site)
 
 
