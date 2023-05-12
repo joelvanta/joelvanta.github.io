@@ -18,7 +18,7 @@ summary: "A group web development project for Software Engineering class"
 </div>
 
 ## Introduction
-As a final project for my ICS 314 class(Software Engineering I), we were tasked to make a working webpage that could help the University of Hawaii community. We created a webpage that can list items that people want to get rid of, or items that can be reuse by other people. 
+As a final project for my ICS 314 class (Software Engineering I), we were tasked to make a working webpage that could help the University of Hawaii community. We created a webpage that can list items that people want to get rid of, or items that can be reuse by other people. 
 
 ## How it works
 A person needs to sign-up and create a profile using their UH email address. The person can then list an item that they want to sell within the UH community. The buyer and seller can communicate with each other through email.
