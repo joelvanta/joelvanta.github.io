@@ -1,20 +1,20 @@
 ---
 layout: project
 type: project
-image: img/vacay/Screenshot 2023-02-02 at 7.00.16 PM.png
-title: "Zumibot"
+image: img/projhome.png
+title: "ICS 314 Final Project"
 date: 2022
 published: true
 labels:
-  - Python
-  - Machine Learning
-  - Artificial Intelligence
+  - Web Development
+  - Online Marketplace
+  - Software Engineering
   
-summary: "A miniature robotic car for DiscoverAI program Fall 2022"
+summary: "Manoa Trade Your Stuff"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/vacay/zumi2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/projprofile.png">
 </div>
 
 
