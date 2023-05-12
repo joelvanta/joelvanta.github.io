@@ -12,9 +12,9 @@ labels:
 ---
 
 
-<img width="1000px" class="float-end pe-4" src="../img/igniting/eslint1.png">
+<img src="../img/igniting/eslint1.png">
 
-<img width="1000px" class="float-end pe-4" src="../img/igniting/eslint2.png">
+<img src="../img/igniting/eslint2.png">
 
 <br>
 <br>
