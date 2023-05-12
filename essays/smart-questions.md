@@ -15,7 +15,6 @@ labels:
 <br>
 
 <br>
-<br>
 
 ## Introduction
 Human beings are born with the capability to communicate with each other whether in words or actions, written or spoken. Our brain is so complex that we tend to become curious as to what is happening around us, so we ask different types of questions as we mature. We ask questions for us to gain sufficient information regarding something that we do not know and to enhance our knowledge about something. 
