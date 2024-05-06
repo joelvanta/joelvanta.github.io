@@ -15,7 +15,7 @@ labels:
 <br>
 
 ## Introduction
-Software Engineering II (ICS 414) is an elective class in the BS Computer Science program. This Spring 2024 semester, it only has one class offered and it gets filled out quickly. I was able to register on this course on the first day of classes since one of the previously registered students dropped the class. I still need one elective to graduate this semester and I chose this class. This course is a continuation of the things that I learned from Software Engineering I.
+Software Engineering II (ICS 414) is an elective class in the BS Computer Science program. This Spring 2024 semester, it only has one class offered and it gets filled out quickly. I was able to register on this course on the first day of classes since one of the previously registered students dropped the class. I still need one elective to graduate this semester and I chose this class. This course is a continuation of the things that I learned from Software Engineering I. It deals with project management, quality, and productivity control, testing and validation, and team management.
 
 ## Lessons learned in my Software Engineering II class
 On the first week of class, we were informed about how the class will be done. We were given a client, that wants to have a website regarding volunteering opportunities. She gave her idea and instructions on how the website will look like and how it functions. We were group in teams according to the professor’s discretion. It is hard to work in teams where you do not know each other well. 
