@@ -11,7 +11,7 @@ labels:
   - Technical Essay
 ---
 
-<img src="../img/student1" alt="student1" width="1000" height="500">
+<img src="/img/student1.png" alt="student1" width="1000" height="500">
 <br>
 
 <br>
