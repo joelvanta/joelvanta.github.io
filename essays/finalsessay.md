@@ -11,7 +11,7 @@ labels:
   - Technical Essay
 ---
 
-<img src="https://neurosciencenews.com/files/2022/07/self-reflection-brain-health-neurosciences-public.jpg" alt="reflection" width="1000" height="500">
+<img src="../img/student1" alt="student1" width="1000" height="500">
 <br>
 
 <br>
