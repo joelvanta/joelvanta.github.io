@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Working progress"
+title: "The road to the finish line"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
 published: true
@@ -15,7 +15,7 @@ labels:
 <br>
 
 ## Introduction
-My experience
+Software Engineering II (ICS 414) is an elective class in the BS Computer Science program. This Spring 2024 semester, it only has one class and it gets filled out quickly. I was able to register on this class on the first day of class since one of the previously registered student dropped the class. I still need one elective in order to graduate this semester and I chose this class.
 
 ## Lessons learned in my Software Engineering II class
 
