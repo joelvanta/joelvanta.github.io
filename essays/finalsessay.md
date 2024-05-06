@@ -14,9 +14,6 @@ labels:
 <img src="/img/student1.png" alt="student1" width="1000" height="700">
 <br>
 
-<br>
-<br>
-
 ## Introduction
 My experience
 
