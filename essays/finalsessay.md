@@ -27,8 +27,7 @@ In conclusion, we always need to learn, it is a never-ending journey, that makes
 <p style="text-align:center;"> 
 <img src="/img/student2.png" alt="graduate" width="1000" height="500">
 </p>
-<b>
+
 <p style="text-align: center; color: red;">Congratulations to all my fellow graduating seniors of Class 2024!</p>
-</b>
 
 
