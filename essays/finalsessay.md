@@ -10,9 +10,9 @@ labels:
   - Software Engineering
   - Technical Essay
 ---
-
-<img src="/img/student1.png" alt="student1" width="1000" height="500">
-<br>
+<p style="text-align:center;"> 
+<img src="/img/student1.png" alt="student1" width="1000" height="500"> 
+</p>>
 
 ## Introduction
 Software Engineering II (ICS 414) is an elective class in the BS Computer Science program at the University of Hawai’i at Manoa. This Spring 2024 semester, it only has one class offered and it gets filled out quickly. I was able to register on this course on the first day of classes since one of the previously registered students dropped the class. I still need one elective to graduate this semester and I chose this class. This course is a continuation of the things that I learned from Software Engineering I (ICS 314). It deals with project management, quality, and productivity control, testing and validation, and team management.
