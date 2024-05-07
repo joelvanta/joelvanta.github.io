@@ -22,7 +22,8 @@ On the first week of class, we were informed about how the class will be done. W
 <p>As the weeks progress, we made our repository and created the application that the clients intended it to be. We have weekly review codes that I think was a great help for us as students. Those weekly review codes determined what went wrong in our codes and we planned as a team on how to fix it. We had customer milestone every month to check in with our client and showcase our work. The client gave feedback which we used to improve our application. We also graded our fellow team members during every milestone accordingly.</p>
 
 ## Generalization
-In conclusion, we always need to learn, it is a never-ending journey, that makes an individual successful in any field. There were a lot of topics that were discussed in my Software Engineering class. Two of those that have really stuck in my mind are Ethics in Software Engineering and Coding Standards. This semester has not been an easy one, there are times that you fail and succeed. The only important thing is what you have learned and how would you apply it in your career. Never stop learning!
+In conclusion, it was a great learning opportunity. I will always bring and apply the lessons that I have learned in the course as I progress in the real world after graduation.
+
 
 <p style="text-align:center;"> 
 <img src="/img/student2.png" alt="graduate" width="1000" height="500">
