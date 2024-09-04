@@ -6,7 +6,7 @@
     "email": "vantajc@hawaii.edu",
     "phone": "505-721-6271",
     "website": "https://joelvanta.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a concentration in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2024.",
+    "summary": "I graduated with a B.S. in Computer Science with a concentration in Security Science in the Department of Information and Computer Sciences at the University of Hawaii in Spring 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
@@ -24,17 +24,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Python", "Meteor", "MongoDB"]
+      "keywords": [ "C", "Java", "Javascript", "Python", "Meteor", "MongoDB", "C++"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Linux", "Windows" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "2024-05-11",
