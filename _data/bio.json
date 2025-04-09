@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
       { "network": "linkedin", "username": "vantajc", "url": "https://www.linkedin.com/in/joel-vanta-135373a8/" },
-      { "network": "x", "username": "vantajc", "url": "http://x.com/vantajc" },
+      { "network": "x", "username": "vantajc", "url": "http://x.com/vantajc" }
     ]
   },
   "interests": [
@@ -75,7 +75,7 @@
       "endDate": "2016-05-22",
       "summary": "A passionate and dedicated educator",
       "highlights": [
-        "Educate the young people in the fascinating field of chemistry",
+        "Educate the young people in the fascinating field of chemistry"
        
       ]
     }
