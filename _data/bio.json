@@ -6,7 +6,7 @@
     "email": "vantajc@hawaii.edu",
     "phone": "505-721-6271",
     "website": "https://joelvanta.github.io",
-    "summary": "I graduated with a B.S. in Computer Science with a concentration in Security Science in the Department of Information and Computer Sciences at the University of Hawai'i in Spring 2024.",
+    "summary": "Cybersecurity Specialist and Army Veteran with extensive experience in client relationship management, IT, and data security. Hands-on expertise in software engineering and programming, network administration, and risk assessment. Known for a systematic and disciplined approach to problem-solving, honed through military service, coupled with a dynamic ability to adapt to evolving cyber threats. Excels in fast-paced environments, offering a blend of leadership, technical expertise, and a commitment to safeguarding information assets. Holds a Bachelor of Science in Computer Science with a focus on Security Science and is pursuing CompTIA Security+ and EC Council Certified Ethical Hacker certifications.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
@@ -23,12 +23,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Python", "Meteor", "MongoDB", "C++"]
+      "name": "Personal",
+      "keywords": [ "Attention to detail", "problem-solving", "leadership", "teamwork", "customer service", "communication", "research", "collaboration", "time management", "critical thinking", "decision making", "information management", "interpersonal", "initiative", "integrity", "accountability", "organizational awareness"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Linux", "Windows" ]
+      "name": "Toolsets/Platforms",
+      "keywords": [ "GitHub", "IntelliJ IDEA", "Visual Studio Code", "Microsoft Azure", "AWS", "Slack", "Chrome" ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [ "Java", "JavaScript", "C", "C++", "Python"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [ "Linux", "macOS", "Windows 10 Pro"]
+    },
+    {
+      "name": "Full Stack Web Development",
+      "keywords": [ "HTML", "CSS", "CSS Frameworks (Bootstrap, Tailwind)", "JavaScript", "JSX", "JS Frameworks/Libraries (Meteor, React, Angular)", "Backend Frameworks (NodeJS)", "Docker", "Ngix", "Database (Relational – MySQL, PostgreSQL; Non-relational – MongoDB)", "API development (REST)", "API security (HTTPS, SSL/TLS)", "Deployment Platforms (Digital Ocean, Microsoft Azure, Adobe Experience Manager, AWS)"]
     }
   ],
   "education": [
