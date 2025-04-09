@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/metroexplore.png
+image: img/metroexplore.png
 title: "MetroExplore"
 date: 2025
 published: true
