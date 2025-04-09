@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/sciencefair.png
 title: "Science Fair"
 date: 2016
-published: true
+published: flase
 labels:
   - Science Fair
   - Projects
