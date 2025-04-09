@@ -15,7 +15,8 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
+    { "name": "Cybersecurity" },
+    { "name": "Software Engineering" },
     { "name": "Artificial Intelligence" },
     { "name": "Machine Learning" },
     { "name": "Foreign exchange" },
