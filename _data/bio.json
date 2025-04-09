@@ -57,6 +57,17 @@
   ],
   "work": [
     {
+      "company": "Department of Human Services, MedQuest Division",
+      "position": "Hele Imua Intern (IT Specialist)",
+      "website": "",
+      "startDate": "2025-02-03",
+      "endDate": "2019-07-02",
+      "summary": "Software Developer/Cybersecurity specialist",
+      "highlights": [
+        "Assisted in the configuration of firewalls, virtual machines, network address translation (NAT) rules, remote desktop protocol (RDP) using Microsoft Azure", "Performed website migration using Adobe Experience Manager, Strapi, and LifeRay"
+           ]
+    },
+    {
       "company": "United States Army",
       "position": "Chemical Specialist",
       "website": "",
