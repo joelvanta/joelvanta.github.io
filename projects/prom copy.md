@@ -4,7 +4,7 @@ type: project
 image: img/cotton/Prom.png
 title: "Prom Night"
 date: 2015
-published: true
+published: false
 labels:
   - Prom
   - Masquerade
