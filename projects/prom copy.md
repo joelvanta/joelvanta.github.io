@@ -19,4 +19,4 @@ I conducted a meeting with the whole Junior class to discuss the theme of the pr
 ## The actual event night
 There was a strict security presence before the event started. Those who attended were all dressed and wearing masks. During the event proper, everyone participated and enjoyed the music and the program that was prepared by the students. There was no incident that happened which I was thankful for. 
 
-Overall, being the overall in-charge was difficult. However, if you know how to delegate tasks and manage time, and everything will be executed according to plan, it would not be that difficult to do.
+Overall, being the overall in-charge was difficult. However, if you know how to delegate tasks and manage time, and everything will be executed according to plan, it would not be that difficult to do. It was fun and exciting.
