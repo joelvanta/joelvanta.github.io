@@ -6,7 +6,7 @@
     "email": "vantajc@hawaii.edu",
     "phone": "505-721-6271",
     "website": "https://joelvanta.github.io",
-    "summary": "I graduated with a B.S. in Computer Science with a concentration in Security Science in the Department of Information and Computer Sciences at the University of Hawaii in Spring 2024.",
+    "summary": "I graduated with a B.S. in Computer Science with a concentration in Security Science in the Department of Information and Computer Sciences at the University of Hawai'i in Spring 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
@@ -38,8 +38,7 @@
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "2024-05-11",
-      "courses": [Software engineering II, Networking and Security, Linear Algebra and Differential Equations, Computer Security, Software Quality Assurance
-      ]
+      "courses": []
     },
     {
       "institution": "Philippine Normal University, Manila, Philippines",
