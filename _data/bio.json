@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "joelvanta", "url": "http://github.com/joelvanta" },
       { "network": "linkedin", "username": "vantajc", "url": "https://www.linkedin.com/in/joel-vanta-135373a8/" },
-      { "network": "twitter/x", "username": "vantajc", "url": "http://x.com/vantajc" }
+      { "network": "x/twitter", "username": "vantajc", "url": "http://x.com/vantajc" }
     ]
   },
   "interests": [
