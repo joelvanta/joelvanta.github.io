@@ -7,6 +7,8 @@ date: 2025
 published: true
 labels:
   - Web development
+  - Software Engineering
+  - JavaScript
 summary: "A personal web application for public use"
 ---
 
