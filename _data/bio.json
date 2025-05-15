@@ -44,6 +44,16 @@
       "keywords": [ "HTML", "CSS", "CSS Frameworks (Bootstrap, Tailwind)", "JavaScript", "JSX", "JS Frameworks/Libraries (Meteor, React, Angular)", "Backend Frameworks (NodeJS)", "Docker", "Ngix", "Database (Relational – MySQL, PostgreSQL; Non-relational – MongoDB)", "API development (REST)", "API security (HTTPS, SSL/TLS)", "Deployment Platforms (Digital Ocean, Microsoft Azure, Adobe Experience Manager, AWS)"]
     }
   ],
+  "certificates": [
+  {
+    "name": "CompTIA Security+ (SY0-701)",
+    "date": "2025-04-15",
+    "issuer": "CompTIA",
+    "url": "https://www.comptia.org/certifications/security",
+    "summary": "Passed on first attempt. Demonstrates strong knowledge in risk management, incident response, architecture design, and cybersecurity controls."
+  }
+],
+
   "education": [
     {
       "institution": "University of Hawai'i, Honolulu, HI",
