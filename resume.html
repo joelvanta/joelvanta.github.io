@@ -86,12 +86,18 @@ layout: home
               <br><strong>Validation Code:</strong> {{ entry.validationcode }}
             {% endif %}
           </p>
+
+          {% if entry.badgeId %}
+          <!-- Credly Badge Embed -->
+          <div class="mt-2" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="{{ entry.badgeId }}" data-share-badge-host="https://www.credly.com"></div>
+          {% endif %}
         </div>
         <div class="col-3 text-end">
           <p class="m-0">{{ entry.date }}</p>
         </div>
       </div>
     {% endfor %}
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </div>
 </div>
 {% endif %}
