@@ -51,7 +51,8 @@
     "issuer": "CompTIA",
     "validationcode": "5XZWXSDSWFQQ13M2",
     "url": "https://www.certmetrics.com/comptia/public/verification.aspx/",
-    "summary": "Demonstrates strong knowledge in risk management, incident response, architecture design, and cybersecurity controls."
+    "summary": "Demonstrates strong knowledge in risk management, incident response, architecture design, and cybersecurity controls.",
+    "badgeId": "0101c646-2bf6-43f5-9b5b-ef903eef91c2"
   }
 ],
 
