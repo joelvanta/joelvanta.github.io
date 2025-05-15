@@ -78,12 +78,13 @@ layout: home
     {% for entry in site.data.bio.certificates %}
       <div class="row mb-3">
         <div class="col-9">
-          <p class="mb-0">
-            <b>{{ entry.name }}</b> — {{ entry.issuer }}
-          </p>
+          <p class="mb-0"><b>{{ entry.name }}</b> — {{ entry.issuer }}</p>
           <p class="mb-0">{{ entry.summary }}</p>
           <p class="mb-0">
             <a href="{{ entry.url }}" target="_blank">Verify Credential</a>
+            {% if entry.validationcode %}
+              <br><strong>Validation Code:</strong> {{ entry.validationcode }}
+            {% endif %}
           </p>
         </div>
         <div class="col-3 text-end">
@@ -91,12 +92,6 @@ layout: home
         </div>
       </div>
     {% endfor %}
-    
-    <!-- Embed Credly Badge if CompTIA Security+ -->
-    <div class="mt-3">
-      <div data-iframe-width="300" data-iframe-height="300" data-share-badge-id="0101c646-2bf6-43f5-9b5b-ef903eef91c2" data-share-badge-host="https://www.credly.com"></div>
-      <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    </div>
   </div>
 </div>
 {% endif %}
